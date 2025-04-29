@@ -1,5 +1,14 @@
 {
-    "require": {
-        "slim/slim": "4.*"
-    }
+    "name": "ericc70/slim4-api-skeleton",
+    "autoload": {
+        "psr-4": {
+            "Ericc70\\Slim4ApiSkeleton\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ericc70"
+        }
+    ],
+    "require": {}
 }
